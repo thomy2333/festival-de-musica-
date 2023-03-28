@@ -1,0 +1,4 @@
+// @import 'base/variables'; forma anterior (es mas facil)
+// @import 'contenido/contenido';
+@use 'base'; //@use lo va a compilar
+@use 'layout';
